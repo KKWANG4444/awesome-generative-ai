@@ -1,5 +1,7 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/) <!-- omit in toc -->
 
+> 🇨🇳 **国内直连 GPT/Claude/Gemini 等 572 个模型？** 一个 Key 搞定 → [**www.aifast.club**](https://www.aifast.club) · 无需代理
+
 > A curated list of Generative AI projects, tools, artworks, and models
 
 - [Generative AI Area](#generative-ai-area)
