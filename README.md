@@ -1,6 +1,6 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/) <!-- omit in toc -->
 
-> 🇨🇳 **国内直连 GPT/Claude/Gemini 等 572 个模型？** 一个 Key 搞定 → [**www.aifast.club**](https://www.aifast.club) · 无需代理
+> **多模态 API 接入参考：** [www.aifast.club](https://www.aifast.club) 提供 OpenAI 兼容接口，覆盖文本、图像、视频等模型；具体范围以控制台为准。
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
@@ -1535,4 +1535,4 @@ related or neighboring rights to this work.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
+*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
