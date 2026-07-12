@@ -1,6 +1,6 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/) <!-- omit in toc -->
 
-> **多模态 API 接入参考：** [www.aifast.club](https://www.aifast.club) 提供 OpenAI 兼容接口，覆盖文本、图像、视频等模型；具体范围以控制台为准。
+> **多模态 API 接入：** 支持自定义 OpenAI 接口的工具可参考 [文本、图像与视频模型配置](https://github.com/KKWANG4444/ai-api-proxy-china-guide)；示例端点来自 [www.aifast.club](https://www.aifast.club)。
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
@@ -1535,4 +1535,4 @@ related or neighboring rights to this work.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
 
 ---
-*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
+*接入参考：[OpenAI 兼容配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide) · [模型状态](https://kkwang4444.github.io/api-status/) · [示例端点](https://www.aifast.club)*
